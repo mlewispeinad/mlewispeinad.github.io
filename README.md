@@ -5,8 +5,8 @@
 **Statistics & Data Science Skills: Regression Analysis, Longitudinal Data Analysis, Applied Linear Regression, Statistical Computing, Statistical Consulting, Statistical Inference, Data Visualization**
 
 ## Education
-- M.S., Statistics | University of Massachusetts at Amherst (December 2025)
-- B.S., Mathematics with a Concentration in Statistics & Data Science | University of Massachusetts at Amherst (June 2024)
+M.S., Statistics | University of Massachusetts at Amherst (*December 2025*)
+B.S., Mathematics with a Concentration in Statistics & Data Science | University of Massachusetts at Amherst (*June 2024*)
 
 ## Work Experience
 **Graduate Student Consultant @ UMass Statistical Consulting & Collaboration Services (*March 2025 - Present*)**
