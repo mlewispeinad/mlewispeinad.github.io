@@ -1,6 +1,6 @@
 # Statistics Graduate Student
 
-**Technical Skills:** R, SQL, LaTeX, Linux, Java, C, Shiny (in R), Microsoft Power BI
+**Technical Skills:** R, SQL, LaTeX, Linux, Java, C, Shiny, Microsoft Power BI (DataCamp Certificate: Introduction to Power BI)
 
 **Statistics & Data Science Skills:** Regression Analysis, Longitudinal Data Analysis, Applied Linear Regression, Statistical Computing, Statistical Consulting, Statistical Inference, Data Visualization
 
