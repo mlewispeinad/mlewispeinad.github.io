@@ -7,12 +7,14 @@
 ## Projects
 ### 2025
 - Squirrel Census Analysis
+
 ### 2024
 - Esophageal Cancer Risk Model
 - MIA flight delay model
 - Reflecting on the Turnaway Study: A Literature Review
 - Spotify Data Analysis & Tutorial
 - Investigating UMass’s Rising In-State Tuition
+  
 ### 2022 - 2023
 - Unveiling Opioid Crisis Impact: A Study on Young Native American Overdose Mortality Rates (2006-2020)
 - COVID19 in Illinois Analysis
