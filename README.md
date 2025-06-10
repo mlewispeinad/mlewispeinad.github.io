@@ -4,7 +4,7 @@
 
 **Statistics & Data Science Skills:** Regression Analysis, Longitudinal Data Analysis, Applied Linear Regression, Statistical Computing, Statistical Consulting, Statistical Inference, Data Visualization
 
-## Projects
+## <a href="https://github.com/mlewispeinad/projects/">Projects</a>
 ### 2025
 - Squirrel Census Analysis
 
