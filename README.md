@@ -13,7 +13,7 @@
 - MIA flight delay model
 - Reflecting on the Turnaway Study: A Literature Review
 - Spotify Data Analysis & Tutorial
-- Investigating UMass’s Rising In-State Tuition
+- <a href="https://github.com/mlewispeinad/projects/blob/main/UMassTuition.pdf">Investigating UMass’s Rising In-State Tuition</a> 
   
 ### 2022 - 2023
 - <a href="https://github.com/mlewispeinad/projects/blob/main/opioid-crisis.pdf">Unveiling Opioid Crisis Impact: A Study on Young Native American Overdose Mortality Rates (2006-2020)</a>
