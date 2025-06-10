@@ -5,14 +5,17 @@
 **Statistics & Data Science Skills:** Regression Analysis, Longitudinal Data Analysis, Applied Linear Regression, Statistical Computing, Statistical Consulting, Statistical Inference, Data Visualization
 
 ## Projects
-Squirrel Census Analysis
-Esophageal Cancer Risk Model
-MIA flight delay model
-Reflecting on the Turnaway Study: A Literature Review
-Spotify Data Analysis & Tutorial
-Investigating UMass’s Rising In-State Tuition
-Unveiling Opioid Crisis Impact: A Study on Young Native American Overdose Mortality Rates (2006-2020)
-COVID19 in Illinois Analysis
+# 2025
+- Squirrel Census Analysis
+# 2024
+- Esophageal Cancer Risk Model
+- MIA flight delay model
+- Reflecting on the Turnaway Study: A Literature Review
+- Spotify Data Analysis & Tutorial
+- Investigating UMass’s Rising In-State Tuition
+# 2022 - 2023
+- Unveiling Opioid Crisis Impact: A Study on Young Native American Overdose Mortality Rates (2006-2020)
+- COVID19 in Illinois Analysis
 
 ## Education
 M.S., Statistics | University of Massachusetts at Amherst (*December 2025*)
