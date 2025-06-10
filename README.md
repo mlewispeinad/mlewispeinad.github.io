@@ -12,7 +12,7 @@
 - <a href="https://github.com/mlewispeinad/projects/blob/main/esophegal-cancer-risk.pdf">Esophageal Cancer Risk Model</a>
 - MIA flight delay model
 - Reflecting on the Turnaway Study: A Literature Review
-- Spotify Data Analysis & Tutorial
+- <a href="https://github.com/mlewispeinad/projects/tree/main/Spotify-Data">Spotify Data Analysis & Tutorial</a>
 - <a href="https://github.com/mlewispeinad/projects/blob/main/UMassTuition.pdf">Investigating UMass’s Rising In-State Tuition</a> 
   
 ### 2022 - 2023
