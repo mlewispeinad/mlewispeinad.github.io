@@ -17,7 +17,7 @@
   
 ### 2022 - 2023
 - <a href="https://github.com/mlewispeinad/projects/blob/main/opioid-crisis.pdf">Unveiling Opioid Crisis Impact: A Study on Young Native American Overdose Mortality Rates (2006-2020)</a>
-- COVID19 in Illinois Analysis
+- <a href="https://github.com/mlewispeinad/projects/blob/main/COVID19-in-Illinois.pdf">COVID19 in Illinois Analysis</a>
 
 ## Education
 M.S., Statistics | University of Massachusetts at Amherst (*December 2025*)
